@@ -1,4 +1,4 @@
-# Welcome to Sparta Feed Consumer test!
+# Welcome to the Feed Consumer Kata!
  
 We have organized a sandbox for you to show your Java skills to deal with a real life problem.
  
@@ -8,7 +8,7 @@ The project is composed by two parts, the client and the server:
 
  The server is the part you need to code, we have started a SpringBoot application and already defined the two endpoints you need to code: a POST method called 'load', that will receive the data from the client provided, and a GET method called 'total', that will be the method that the client will use to request the total of readings sent by provider.
 
-The result of this exercise will be the base on which we will perform the technical interview, try to be clean and give a simple solution for what is requested, although the client is not going to request all the mapping data, the server will need to map it completely.
+The most important thing is to map the data
 
 IMPORTANT NOTES:
 
@@ -17,7 +17,6 @@ IMPORTANT NOTES:
 - The format the data is being sent is at the end of this README.
 - And just in case... to run the jar you need to execute: java -jar sparta-client.jar
  
-If you have any question at anytime, do not hesitate to contact Luis on this email: luis@spartacommodities.com
 
 # Message format
 
